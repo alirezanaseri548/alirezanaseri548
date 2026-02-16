@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 سلام، من علیرضا ناصری هستم
 
-<!--
-**alirezanaseri548/alirezanaseri548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> یادگیرنده‌ی مداوم | علاقه‌مند به ساختن | برنامه‌نویس در مسیر رشد
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 درباره من
+من به برنامه‌نویسی به‌عنوان یک مسیر نگاه می‌کنم، نه فقط یک مهارت.  
+علاقه‌مند به یادگیری عمیق، ساختن پروژه‌های واقعی و بهتر کردن خودم قدم‌به‌قدم.
+
+- تمرکز روی یادگیری اصولی
+- علاقه‌مند به Front-end و مفاهیم وب
+- باور دارم پیشرفت واقعی، تدریجی و مداومه
+
+---
+
+## 🧭 مسیر فعلی من
+الان روی این موضوعات کار می‌کنم:
+
+✅ JavaScript (عمیق‌تر از سطح)  
+✅ React و ساخت کامپوننت‌های تمیز  
+✅ Git و GitHub برای کار حرفه‌ای  
+✅ نوشتن کد قابل‌فهم و قابل‌نگهداری  
+
+---
+
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+
+---
+
+## 📂 درباره ریپازیتوری‌ها
+در این اکانت می‌تونی پیدا کنی:
+- تمرین‌های JavaScript
+- پروژه‌های کوچک برای یادگیری عمیق‌تر
+- تست ایده‌ها و مفاهیم
+- مسیر رشد من به‌صورت مستند
+
+> کیفیت برای من مهم‌تر از تعداد پروژه‌هاست.
+
+---
+
+## 🧠 طرز فکری که باهاش کد می‌زنم
+- اول فهم، بعد کدنویسی
+- کد تمیز از کد سریع مهم‌تره
+- هر پروژه یک قدم جلوتر از قبلی
+
+---
+
+## 📖 جمله‌ای که بهش پایبندم
+> «آرام جلو رفتن، هنوز جلو رفتنه.»
+
+---
+
+## 📬 ارتباط
+اگر دوست داشتی در ارتباط باشیم:
+- GitHub: https://github.com/alirezanaseri548
+
+---
+
+## ⭐
+اگر یکی از پروژه‌ها یا مسیرم برات مفید بود، خوشحال می‌شم ستاره بزنی  
+این خودش یه انگیزه‌ی قشنگه ✨
