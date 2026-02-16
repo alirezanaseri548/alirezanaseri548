@@ -1,68 +1,40 @@
-# 👋 سلام، من علیرضا ناصری هستم
+# Hi, I'm 👋
 
-> یادگیرنده‌ی مداوم | علاقه‌مند به ساختن | برنامه‌نویس در مسیر رشد
-
----
-
-## 🌱 درباره من
-من به برنامه‌نویسی به‌عنوان یک مسیر نگاه می‌کنم، نه فقط یک مهارت.  
-علاقه‌مند به یادگیری عمیق، ساختن پروژه‌های واقعی و بهتر کردن خودم قدم‌به‌قدم.
-
-- تمرکز روی یادگیری اصولی
-- علاقه‌مند به Front-end و مفاهیم وب
-- باور دارم پیشرفت واقعی، تدریجی و مداومه
+I build with purpose.
+I design with care.
+I learn relentlessly.
 
 ---
 
-## 🧭 مسیر فعلی من
-الان روی این موضوعات کار می‌کنم:
+## About Me
 
-✅ JavaScript (عمیق‌تر از سطح)  
-✅ React و ساخت کامپوننت‌های تمیز  
-✅ Git و GitHub برای کار حرفه‌ای  
-✅ نوشتن کد قابل‌فهم و قابل‌نگهداری  
+I think in systems.
+I write in patterns.
+I ship with intention.
 
----
-
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+From idea
+→ to structure,
+→ to clean execution.
 
 ---
 
-## 📂 درباره ریپازیتوری‌ها
-در این اکانت می‌تونی پیدا کنی:
-- تمرین‌های JavaScript
-- پروژه‌های کوچک برای یادگیری عمیق‌تر
-- تست ایده‌ها و مفاهیم
-- مسیر رشد من به‌صورت مستند
+## What I Believe
 
-> کیفیت برای من مهم‌تر از تعداد پروژه‌هاست.
+Less noise.
+More meaning.
 
----
-
-## 🧠 طرز فکری که باهاش کد می‌زنم
-- اول فهم، بعد کدنویسی
-- کد تمیز از کد سریع مهم‌تره
-- هر پروژه یک قدم جلوتر از قبلی
+Clean code,
+clear mind,
+constant progress.
 
 ---
 
-## 📖 جمله‌ای که بهش پایبندم
-> «آرام جلو رفتن، هنوز جلو رفتنه.»
+## Tech Mindset
+
+- Simplicity over complexity
+- Readability over cleverness
+- Progress over perfection
 
 ---
 
-## 📬 ارتباط
-اگر دوست داشتی در ارتباط باشیم:
-- GitHub: https://github.com/alirezanaseri548
-
----
-
-## ⭐
-اگر یکی از پروژه‌ها یا مسیرم برات مفید بود، خوشحال می‌شم ستاره بزنی  
-این خودش یه انگیزه‌ی قشنگه ✨
+Thanks for stopping by 🌱
