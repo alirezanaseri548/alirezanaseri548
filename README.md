@@ -1,232 +1,40 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <title>رزومه علیرضا ناصری</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;700&display=swap');
+# **Alireza Naseri**
+**Senior Full Stack Developer** 🚀
 
-        :root {
-            --bg-color: #1e293b; /* سرمه‌ای تیره */
-            --card-bg: #334155;
-            --text-main: #f8fafc;
-            --text-secondary: #94a3b8;
-            --accent: #38bdf8; /* آبی روشن */
-        }
+📍 Iran
 
-        body {
-            font-family: 'Vazirmatn', sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            margin: 0;
-            padding: 40px;
-            line-height: 1.6;
-            -webkit-print-color-adjust: exact;
-        }
+---
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            gap: 30px;
-        }
+## **🔧 Technical Skills**
 
-        /* ستون سمت راست - اطلاعات شخصی */
-        .sidebar {
-            text-align: center;
-        }
+### **Backend & Frameworks**
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
 
-        .profile-img {
-            width: 180px;
-            height: 180px;
-            object-fit: cover;
-            border-radius: 50%;
-            border: 4px solid var(--accent);
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.3);
-            margin-bottom: 20px;
-            background-color: #ccc; /* جایگزین عکس */
-        }
+### **Frontend & Libraries**
+![React](https://img.shields.io/badge/React.js-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 
-        h1 {
-            font-size: 24px;
-            margin-bottom: 5px;
-            color: var(--text-main);
-        }
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 
-        .role {
-            color: var(--accent);
-            font-weight: bold;
-            font-size: 16px;
-            margin-bottom: 20px;
-            display: block;
-        }
+---
 
-        .location {
-            color: var(--text-secondary);
-            font-size: 14px;
-            margin-bottom: 30px;
-        }
+## **📝 Professional Summary**
 
-        .skills-section h3 {
-            border-bottom: 2px solid var(--accent);
-            padding-bottom: 5px;
-            margin-top: 30px;
-            font-size: 18px;
-            text-align: right;
-        }
+> **Senior Full Stack Developer** with extensive experience in designing and implementing scalable software systems. Specialized in **PHP and JavaScript ecosystems**, with a focus on **Clean Architecture**. Passionate about solving complex technical challenges in **Backend Development** and creating seamless user experiences with **React**.
 
-        .skill-tag {
-            background: var(--card-bg);
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 6px;
-            margin: 4px;
-            display: inline-block;
-            font-size: 13px;
-        }
+---
 
-        /* ستون سمت چپ - تجربیات */
-        .main-content {
-            border-right: 1px solid #475569;
-            padding-right: 30px;
-        }
+## **🎓 Education**
 
-        .section-title {
-            color: var(--accent);
-            font-size: 20px;
-            border-bottom: 1px solid #475569;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
+| Degree                          | University                     |
+|---------------------------------|---------------------------------|
+| **Bachelor of Software Engineering** | Islamic Azad University |
 
-        .job-item {
-            margin-bottom: 30px;
-            position: relative;
-        }
-
-        .job-item::before {
-            content: '●';
-            color: var(--accent);
-            position: absolute;
-            right: -36px;
-            top: 0;
-            font-size: 20px;
-        }
-
-        .job-title {
-            font-size: 18px;
-            font-weight: bold;
-        }
-
-        .company {
-            color: var(--text-secondary);
-            font-size: 14px;
-            margin-bottom: 10px;
-        }
-
-        .description {
-            font-size: 14px;
-            text-align: justify;
-            color: #cbd5e1;
-        }
-
-        .description ul {
-            padding-right: 20px;
-            margin: 0;
-        }
-        
-        /* فقط برای مخفی کردن در پرینت اگر لازم شد */
-        @media print {
-            body { margin: 0; padding: 20px; }
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        
-        <!-- سایدبار -->
-        <div class="sidebar">
-            <!-- اینجا عکس خودت رو بذار. الان یه کادر طوسیه -->
-            <!-- اگر فایل رو ساختی، عکس image.png رو کنار فایل html بذار و خط پایین رو اینطوری کن: -->
-            <!-- <img src="image.png" class="profile-img"> -->
-            <img src="https://via.placeholder.com/200" alt="Alireza Naseri" class="profile-img">
-            
-            <h1>علیرضا ناصری</h1>
-            <span class="role">Senior Full Stack Developer</span>
-            <div class="location">📍 مشهد، ایران</div>
-
-            <div class="skills-section">
-                <h3>مهارت‌های اصلی</h3>
-                <span class="skill-tag">PHP 8.2</span>
-                <span class="skill-tag">Laravel 11</span>
-                <span class="skill-tag">React.js</span>
-                <span class="skill-tag">Next.js</span>
-                <span class="skill-tag">TypeScript</span>
-                
-                <h3>دیتابیس و ابزارها</h3>
-                <span class="skill-tag">MySQL</span>
-                <span class="skill-tag">Redis</span>
-                <span class="skill-tag">Docker</span>
-                <span class="skill-tag">Git Flow</span>
-                <span class="skill-tag">Linux</span>
-            </div>
-        </div>
-
-        <!-- بدنه اصلی -->
-        <div class="main-content">
-            
-            <div class="section-title">خلاصه حرفه‌ای</div>
-            <p class="description">
-                توسعه‌دهنده با تجربه در طراحی و پیاده‌سازی سیستم‌های نرم‌افزاری مقیاس‌پذیر. متخصص در اکوسیستم PHP و JavaScript با تمرکز بر معماری تمیز (Clean Architecture). علاقه‌مند به چالش‌های فنی در حوزه Backend و ایجاد رابط کاربری روان با React.
-            </p>
-
-            <div class="section-title">سوابق شغلی</div>
-
-            <!-- شغل اول -->
-            <div class="job-item">
-                <div class="job-title">توسعه‌دهنده ارشد (Senior Developer)</div>
-                <div class="company">شرکت راهکار نوین توس | ۱۴۰۱ - تا اکنون</div>
-                <div class="description">
-                    <ul>
-                        <li>بازنویسی معماری نرم‌افزار سازمانی با استفاده از <strong>Laravel</strong> و کاهش بدهی فنی.</li>
-                        <li>طراحی و توسعه پنل ادمین SPA با استفاده از <strong>React</strong> و Inertia.js.</li>
-                        <li>بهینه‌سازی کوئری‌های دیتابیس و کاهش زمان لود صفحات تا ۴۰٪.</li>
-                        <li>پیاده‌سازی سیستم CI/CD برای دیپلوی خودکار پروژه‌ها.</li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- شغل دوم -->
-            <div class="job-item">
-                <div class="job-title">برنامه‌نویس وب (Full Stack)</div>
-                <div class="company">استارتاپ مشهد‌کد | ۱۳۹۸ - ۱۴۰۱</div>
-                <div class="description">
-                    <ul>
-                        <li>توسعه پلتفرم فروشگاهی با استفاده از PHP و ادغام درگاه‌های پرداخت.</li>
-                        <li>ساخت کامپوننت‌های Reusable در React برای استفاده در پروژه‌های مختلف.</li>
-                        <li>طراحی API‌های RESTful برای اپلیکیشن موبایل.</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="section-title">پروژه‌های برجسته</div>
-            <div class="job-item">
-                <div class="job-title">سامانه مدیریت انبار (WMS)</div>
-                <div class="description">
-                    طراحی سیستم انبارداری ابری با قابلیت ردیابی کالا. تکنولوژی‌ها: Laravel, Vue.js, MySQL.
-                </div>
-            </div>
-
-            <div class="section-title">تحصیلات</div>
-            <div class="job-item">
-                <div class="job-title">مهندسی نرم‌افزار</div>
-                <div class="company">دانشگاه آزاد اسلامی مشهد</div>
-            </div>
-
-        </div>
-    </div>
-
-</body>
-</html>
+---
