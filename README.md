@@ -1,40 +1,56 @@
-# **Alireza Naseri**
-**Senior Full Stack Developer** 🚀
+[![banner](https://raw.githubusercontent.com/alirezanaseri548/alirezanaseri548/main/banner.png)](https://github.com/alirezanaseri548)
 
-📍 Iran
+# 🌙 Hi! My name is Alireza Naseri
+### Back-End Developer | Node.js | API Development | Learning DevOps
 
----
-
-## **🔧 Technical Skills**
-
-### **Backend & Frameworks**
-![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
-
-### **Frontend & Libraries**
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+<!-- Optional: a vibe gif like the sample -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="420" alt="coding gif" />
+</p>
 
 ---
 
-## **📝 Professional Summary**
+## 🖤 About Me
+- 🧩 Focused on **Back-End Development** (Node.js / REST APIs)
+- 🧼 I care about **clean code** (DRY, SOLID, best practices)
+- ⚡ Currently learning deeper **async/await**, architecture, and scalability
+- 🛠️ Interested in **Linux & DevOps** (Docker, CI/CD) *(edit if you want)*
 
-> **Senior Full Stack Developer** with extensive experience in designing and implementing scalable software systems. Specialized in **PHP and JavaScript ecosystems**, with a focus on **Clean Architecture**. Passionate about solving complex technical challenges in **Backend Development** and creating seamless user experiences with **React**.
+---
+
+## ⚒️ Tech Stack & Tools
+<!-- Replace/Remove badges as you like -->
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
+<!-- Add if you use them:
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+-->
 
 ---
 
-## **🎓 Education**
-
-| Degree                          | University                     |
-|---------------------------------|---------------------------------|
-| **Bachelor of Software Engineering** | Islamic Azad University |
+## 🚀 Featured Projects
+| 🔥 Project | Description |
+| --- | --- |
+| [**Task Manager API**](https://github.com/alirezanaseri548/task-manager-api) | REST API for managing tasks (Auth, CRUD, validations). |
+| [**Project #2**](https://github.com/alirezanaseri548/REPO_NAME) | Short description. |
+| [**Project #3**](https://github.com/alirezanaseri548/REPO_NAME) | Short description. |
 
 ---
+
+## 📫 Contact
+- GitHub: https://github.com/alirezanaseri548
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
+
+<!-- Optional: GitHub stats (can be heavy/slow sometimes)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezanaseri548&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanaseri548&layout=compact&theme=tokyonight" height="160" />
+</p>
+-->
