@@ -97,13 +97,15 @@ Machine learning project focused on logistic regression, model training, predict
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezanaseri548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alireza Naseri GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanaseri548&theme=github_dark" alt="GitHub Profile Summary" />
 
-<br />
+<br /><br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanaseri548&layout=compact&theme=tokyonight&hide_border=true" alt="Alireza Naseri Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanaseri548&theme=github_dark" alt="Most Commit Language" />
 
 </div>
+
 
 
 ---
