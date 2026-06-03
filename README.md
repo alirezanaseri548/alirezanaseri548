@@ -4,7 +4,7 @@
 
 ### Back-End Developer focused on Node.js, NestJS, APIs, Databases and AI-powered Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Back-End+Focused+Developer;Node.js+%7C+NestJS+%7C+TypeScript+%7C+REST+API;PostgreSQL+%7C+Prisma+%7C+Docker;Building+AI-powered+and+Data-driven+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Back-End+Developer;Node.js+%7C+NestJS+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Docker;AI-powered+Backend+Systems" alt="Typing SVG" />
 
 <br />
 
@@ -21,24 +21,11 @@
 
 ## About Me
 
-I'm a back-end focused developer who enjoys building clean, structured, and scalable software.
+Back-end focused developer interested in building clean, scalable, and database-driven systems.
 
-My main focus is on designing reliable APIs, database-driven systems, authentication flows, and backend services that are maintainable and production-ready.
+I work with Node.js, NestJS, TypeScript, Prisma, PostgreSQL, Docker, React, FastAPI, and Python.
 
-I work with Node.js, NestJS, Express.js, TypeScript, Prisma, PostgreSQL, MongoDB, Docker, React, FastAPI, and Python.
-
-I am also interested in AI-powered applications, machine learning pipelines, resume analysis systems, automation, and data-driven backend workflows.
-
----
-
-## Main Focus
-
-- Backend Development: REST APIs, services, authentication, business logic
-- Database Design: PostgreSQL, MongoDB, Prisma ORM
-- AI Integration: FastAPI, Python, machine learning pipelines
-- Clean Architecture: modular code, validation, error handling
-- DevOps Basics: Docker, Docker Compose, deployment flow
-- Full-Stack Systems: React frontend, API backend, database
+My main interests are REST APIs, authentication systems, AI-powered applications, and production-ready backend architecture.
 
 ---
 
@@ -46,49 +33,17 @@ I am also interested in AI-powered applications, machine learning pipelines, res
 
 <div align="center">
 
-### Backend
-
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<br /><br />
-
-### Database and ORM
-
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-
-<br /><br />
-
-### Frontend
-
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
-<br /><br />
-
-### Python and AI
-
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-
-<br /><br />
-
-### DevOps and Tools
-
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </div>
@@ -97,100 +52,31 @@ I am also interested in AI-powered applications, machine learning pipelines, res
 
 ## Featured Project
 
-<div align="center">
+### [AI Resume Analyzer](https://github.com/alirezanaseri548/ai-resume-analyzer)
 
-### AI Resume Analyzer
+Full-stack AI-powered resume analyzer with resume upload, ATS scoring, skill extraction, authentication, dashboard features, and AI/ML processing.
 
-A full-stack AI-powered resume analyzer system built with React, NestJS, Prisma, PostgreSQL, FastAPI, and Docker-based PostgreSQL setup.
-
-<a href="https://github.com/alirezanaseri548/ai-resume-analyzer">
-  <img src="https://img.shields.io/badge/View_Repository-ai--resume--analyzer-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-### AI Resume Analyzer Highlights
-
-- Resume upload and analysis workflow
-- ATS score and resume insights
-- Extracted skills and structured resume data
-- NestJS backend with TypeScript
-- PostgreSQL database with Prisma ORM
-- FastAPI/Python service for AI and ML processing
-- Docker Compose setup for PostgreSQL database
-- React and Vite frontend
-- JWT-based authentication flow
-- Clean and modular project structure
+**Tech:** React, NestJS, TypeScript, Prisma, PostgreSQL, FastAPI, Python, Docker
 
 ---
 
-## Projects
+## Selected Projects
 
-### 1) AI Resume Analyzer
+### 1. [AI Resume Analyzer](https://github.com/alirezanaseri548/ai-resume-analyzer)
 
-Full-stack AI-powered resume analyzer using React, NestJS, Prisma, PostgreSQL, FastAPI, and Docker-based database setup.
+AI-powered resume analysis platform with ATS score, extracted skills, resume insights, authentication, and full-stack architecture.
 
-Repository:  
-https://github.com/alirezanaseri548/ai-resume-analyzer
+### 2. [Task Manager API](https://github.com/alirezanaseri548/task-manager-api)
 
-### 2) Task Manager API
+RESTful task management API with Node.js, Express.js, JWT authentication, user access control, and clean backend structure.
 
-RESTful task management API with Node.js, Express.js, JWT authentication, user access control, and modular backend structure.
+### 3. [Team Task API](https://github.com/alirezanaseri548/team-task-api)
 
-Repository:  
-https://github.com/alirezanaseri548/task-manager-api
+Backend API for team-based task management, focused on service logic, task workflows, and modular API development.
 
-### 3) Team Task API
+### 4. [Logistic Regression Project](https://github.com/alirezanaseri548/Logistic_Regression_Project)
 
-API project focused on team task management, backend logic, and service-oriented development.
-
-Repository:  
-https://github.com/alirezanaseri548/team-task-api
-
-### 4) Event Task Orchestrator
-
-JavaScript-based project focused on event-driven task orchestration and backend workflow logic.
-
-Repository:  
-https://github.com/alirezanaseri548/event-task-orchestrator
-
-### 5) Async Task Manager
-
-JavaScript project focused on asynchronous task handling, backend flow control, and task management logic.
-
-Repository:  
-https://github.com/alirezanaseri548/async-task-manager
-
-### 6) Logistic Regression Project
-
-Machine learning project focused on logistic regression, model training, and data analysis workflow.
-
-Repository:  
-https://github.com/alirezanaseri548/Logistic_Regression_Project
-
-### 7) Divar Smart Bot
-
-JavaScript project for real estate analysis and automation-oriented logic.
-
-Repository:  
-https://github.com/alirezanaseri548/divarsmartbot
-
-### 8) Todo List App
-
-Simple todo list application for practicing frontend and JavaScript application structure.
-
-Repository:  
-https://github.com/alirezanaseri548/todo-list-app
-
----
-
-## More Public Repositories
-
-- https://github.com/alirezanaseri548/daily-activity
-- https://github.com/alirezanaseri548/alirezanaseri548.github.io
-- https://github.com/alirezanaseri548/kayaproj
-- https://github.com/alirezanaseri548/my-react-app
-- https://github.com/alirezanaseri548/docker-guide-fa
+Machine learning project focused on logistic regression, model training, prediction workflow, and data analysis.
 
 ---
 
@@ -198,13 +84,12 @@ https://github.com/alirezanaseri548/todo-list-app
 
 - REST APIs
 - Authentication Systems
-- Database Models
+- Database-driven Backends
 - Prisma Schemas
 - Docker-based Development Setup
-- AI-integrated Backends
-- Machine Learning Pipelines
-- React Frontends
-- Scalable Project Structure
+- AI-integrated Applications
+- Machine Learning Workflows
+- Full-stack Web Applications
 
 ---
 
@@ -212,18 +97,8 @@ https://github.com/alirezanaseri548/todo-list-app
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirezanaseri548&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanaseri548&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezanaseri548&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezanaseri548&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanaseri548&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -239,13 +114,5 @@ https://github.com/alirezanaseri548/todo-list-app
 <a href="https://t.me/alirezanaseri548">
   <img src="https://img.shields.io/badge/Telegram-alirezanaseri548-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building reliable backend systems and AI-powered applications.
 
 </div>
