@@ -97,11 +97,22 @@ Machine learning project focused on logistic regression, model training, predict
 
 <div align="center">
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanaseri548&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanaseri548&theme=github_dark" width="92%" alt="GitHub Profile Summary" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark)
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark" width="45%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanaseri548&theme=github_dark" width="45%" alt="Top Languages by Commit" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirezanaseri548&theme=github_dark" width="45%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirezanaseri548&theme=github_dark&utcOffset=3.5" width="45%" alt="Productive Time" />
 
 </div>
+
 
 
 
