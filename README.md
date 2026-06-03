@@ -97,14 +97,12 @@ Machine learning project focused on logistic regression, model training, predict
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanaseri548&theme=github_dark" alt="GitHub Profile Summary" />
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanaseri548&theme=github_dark)
 
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanaseri548&theme=github_dark" alt="Most Commit Language" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark)
 
 </div>
+
 
 
 
