@@ -92,8 +92,7 @@ Machine learning project focused on logistic regression, model training, predict
 - Full-stack Web Applications
 
 ---
-
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
@@ -102,7 +101,7 @@ Machine learning project focused on logistic regression, model training, predict
 <br />
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark" width="45%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanaseri548&theme=github_dark" width="45%" alt="Top Languages by Repository" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanaseri548&theme=github_dark" width="45%" alt="Top Languages by Commit" />
 
 <br />
