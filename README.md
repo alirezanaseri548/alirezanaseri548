@@ -45,6 +45,12 @@ My main interests are REST APIs, authentication systems, AI-powered applications
 <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+<img src="https://img.shields.io/badge/DVC-111827?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+
 
 </div>
 
