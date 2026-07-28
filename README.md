@@ -2,9 +2,9 @@
 
 # Hi, I'm Alireza Naseri
 
-### Back-End Developer focused on Node.js, NestJS, APIs, Databases and AI-powered Systems
+### Back-End Developer focused on Node.js, NestJS, APIs, Databases, Docker and AI-powered Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Back-End+Developer;Node.js+%7C+NestJS+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Docker;AI-powered+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Back-End+Developer;Node.js+%7C+NestJS+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Docker;AI-powered+Backend+Systems;Scalable+APIs+and+Production-ready+Architecture" alt="Typing SVG" />
 
 <br />
 
@@ -21,11 +21,11 @@
 
 ## About Me
 
-Back-end focused developer interested in building clean, scalable, and database-driven systems.
+Back-end focused developer interested in building clean, scalable, and production-ready systems.
 
-I work with Node.js, NestJS, TypeScript, Prisma, PostgreSQL, Docker, React, FastAPI, and Python.
+I work mainly with Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker, React Native, FastAPI, and Python.
 
-My main interests are REST APIs, authentication systems, AI-powered applications, and production-ready backend architecture.
+My main focus is on REST APIs, backend architecture, database design, AI-powered applications, and full-stack product development.
 
 ---
 
@@ -36,68 +36,75 @@ My main interests are REST APIs, authentication systems, AI-powered applications
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
-<img src="https://img.shields.io/badge/DVC-111827?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-<img src="https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
-
 
 </div>
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [AI Resume Analyzer](https://github.com/alirezanaseri548/ai-resume-analyzer)
+### 1. [AI Powerlifting Form Analyzer](https://github.com/alirezanaseri548/AI-Powerlifting-Form-Analyzer)
 
-Full-stack AI-powered resume analyzer with resume upload, ATS scoring, skill extraction, authentication, dashboard features, and AI/ML processing.
+AI-powered system for analyzing powerlifting form with a focus on movement analysis, backend processing, and intelligent evaluation workflows.
 
-**Tech:** React, NestJS, TypeScript, Prisma, PostgreSQL, FastAPI, Python, Docker
+**Focus:** AI, backend systems, analysis workflows
+
+**Tech:** Python, FastAPI, AI/ML, APIs
 
 ---
 
-## Selected Projects
+### 2. [AI Powered Support Ticket Classifier](https://github.com/alirezanaseri548/AI-Powered-Support-Ticket-Classifier)
 
-### 1. [AI Resume Analyzer](https://github.com/alirezanaseri548/ai-resume-analyzer)
+Full-stack AI-powered support ticket classification system with backend API, ML service integration, web frontend, and mobile application support.
 
-AI-powered resume analysis platform with ATS score, extracted skills, resume insights, authentication, and full-stack architecture.
+**Focus:** Full-stack architecture, ML integration, API design
 
-### 2. [Task Manager API](https://github.com/alirezanaseri548/task-manager-api)
+**Tech:** NestJS, TypeScript, React, React Native, FastAPI, Python, Docker
 
-RESTful task management API with Node.js, Express.js, JWT authentication, user access control, and clean backend structure.
+---
 
-### 3. [Team Task API](https://github.com/alirezanaseri548/team-task-api)
+### 3. [TaskFlow React Native](https://github.com/alirezanaseri548/taskflow-react-native)
 
-Backend API for team-based task management, focused on service logic, task workflows, and modular API development.
+Task management mobile application built with React Native, focused on clean UI structure, mobile workflows, and modern app architecture.
 
-### 4. [Logistic Regression Project](https://github.com/alirezanaseri548/Logistic_Regression_Project)
+**Focus:** Mobile development, task workflows, app structure
 
-Machine learning project focused on logistic regression, model training, prediction workflow, and data analysis.
+**Tech:** React Native, JavaScript, Mobile UI
 
 ---
 
 ## What I Build
 
 - REST APIs
-- Authentication Systems
-- Database-driven Backends
-- Prisma Schemas
-- Docker-based Development Setup
-- AI-integrated Applications
-- Machine Learning Workflows
-- Full-stack Web Applications
+- Scalable Back-End Systems
+- Authentication and Authorization
+- Database-Driven Applications
+- Prisma-Based Architectures
+- Dockerized Development Environments
+- AI-Integrated Products
+- Full-Stack and Mobile Applications
 
 ---
+
+## Current Focus
+
+- Building production-ready backend systems
+- Developing AI-powered applications
+- Improving software architecture and system design
+- Expanding full-stack and mobile development skills
+
+---
+
 ## GitHub Overview
 
 <div align="center">
@@ -117,10 +124,6 @@ Machine learning project focused on logistic regression, model training, predict
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirezanaseri548&theme=github_dark&utcOffset=3.5" width="45%" alt="Productive Time" />
 
 </div>
-
-
-
-
 
 ---
 
